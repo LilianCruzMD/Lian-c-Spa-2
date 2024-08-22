@@ -1,0 +1,158 @@
+
+header{
+    display: flex;
+    flex-direction:row;
+    width:100%;
+    justify-content: space-between;
+    background: linear-gradient(to right, #6b8e23,#d1e0a4);
+}
+
+a{
+    text-decoration: none;
+    list-style: none;
+}
+header ul{
+    list-style: none;
+    display: flex;
+flex-direction: row;
+font-family: fantasy;
+
+
+}
+header ul li{
+    margin:10px;
+    color: rgb(114, 83, 26);
+    outline: none;
+}
+
+header img{
+    width: 180px;
+    height: 140px;
+    border-radius: 20%;
+    
+}
+img{
+width: 200px;;
+height:200px;;
+}
+h1{
+    font-size: 30px;
+    color: rgb(114, 83, 26);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    text-align: justify;
+    text-align: center;
+}
+p{
+    font-size: 20;
+    color: rgb(27, 25, 27);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    text-align: justify;
+    text-align: center;
+
+}
+.Bienvenida{
+    width: 100%;
+    height: 100%;
+    padding: 10px;;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background: linear-gradient(to right,#6b8e23,#d1e0a4);
+}
+
+#nosotros{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: linear-gradient(to right, #6b8e23,#d1e0a4)
+}
+#nosotros iframe{
+    padding: 10px;
+    margin: 10px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width:100% ;
+    margin: 0px 0 0px 0;
+    background: linear-gradient(to right,#6b8e23,#d1e0a4);
+}
+.caja{
+    width: 100%;
+    height: 100%;
+    padding: 10px;;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.caja img{
+    border-radius: 50%;
+}
+.caja p{
+    font-size: 12px;
+}
+.contenedordeservicios{
+    display: flex;
+    flex-direction: row;
+    width:100% ;
+    margin: 0px 0 0px 0;
+    background: linear-gradient(to right,#6b8e23,#d1e0a4);
+
+}
+.caja1{
+    width: 100%;
+    height: 100%;
+    padding: 10px;;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.contenedordeprecios{
+    display: flex;
+    flex-direction: row;
+    width:100% ;
+    margin: 0px 0 0px 0;
+    background: linear-gradient(to right, #6b8e23,#d1e0a4);
+}
+.caja2{
+    width: 100%;
+    height: 100%;
+    padding: 10px;;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.contenedordecontacto{
+    display: flex;
+    flex-direction: row;
+    width:100% ;
+    margin: 0px 0 0px 0;
+    background: linear-gradient(to right, #6b8e23,#d1e0a4);
+}
+.caja3{
+    width: 100%;
+    height: 100%;
+    padding: 10px;;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+ 
+ }
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: fantasy;
+    color:rgb(114, 83, 26) ;
+    background: linear-gradient(to right,#6b8e23,#d1e0a4);
+}
